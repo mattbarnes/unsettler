@@ -1,0 +1,5 @@
+name = Unsettler
+description = Provides a way to disable Drupal core CSS files.
+package = Matt Barnes
+core = 7.x
+version = 7.x-1.0
